@@ -1,0 +1,15 @@
+C:\Users\geras\Desktop\domashka9\bin\Debug\net6.0\domashka9.exe
+C:\Users\geras\Desktop\domashka9\bin\Debug\net6.0\domashka9.deps.json
+C:\Users\geras\Desktop\domashka9\bin\Debug\net6.0\domashka9.runtimeconfig.json
+C:\Users\geras\Desktop\domashka9\bin\Debug\net6.0\domashka9.dll
+C:\Users\geras\Desktop\domashka9\bin\Debug\net6.0\domashka9.pdb
+C:\Users\geras\Desktop\domashka9\obj\Debug\net6.0\domashka9.csproj.AssemblyReference.cache
+C:\Users\geras\Desktop\domashka9\obj\Debug\net6.0\domashka9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geras\Desktop\domashka9\obj\Debug\net6.0\domashka9.AssemblyInfoInputs.cache
+C:\Users\geras\Desktop\domashka9\obj\Debug\net6.0\domashka9.AssemblyInfo.cs
+C:\Users\geras\Desktop\domashka9\obj\Debug\net6.0\domashka9.csproj.CoreCompileInputs.cache
+C:\Users\geras\Desktop\domashka9\obj\Debug\net6.0\domashka9.dll
+C:\Users\geras\Desktop\domashka9\obj\Debug\net6.0\refint\domashka9.dll
+C:\Users\geras\Desktop\domashka9\obj\Debug\net6.0\domashka9.pdb
+C:\Users\geras\Desktop\domashka9\obj\Debug\net6.0\domashka9.genruntimeconfig.cache
+C:\Users\geras\Desktop\domashka9\obj\Debug\net6.0\ref\domashka9.dll
